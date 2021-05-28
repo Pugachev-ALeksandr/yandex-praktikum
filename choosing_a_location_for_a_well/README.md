@@ -18,7 +18,7 @@
 *numpy*,
 *sklearn*, 
 *matplotlib*,
-*seaborn*
+*seaborn*,
 *skipy*
 
 
