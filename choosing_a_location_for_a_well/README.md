@@ -19,7 +19,7 @@
 *sklearn*, 
 *matplotlib*,
 *seaborn*,
-*skipy*
+*scipy*
 
 
 
